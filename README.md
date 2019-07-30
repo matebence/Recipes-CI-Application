@@ -18,14 +18,11 @@ recipes.sql<br />
 
 ## Použité technológie
 
-Node.js<br />
 jQuery<br />
 Fontawesome<br />
-Animate.css<br />
 NPM<br />
 Git<br />
 Bootstrap<br />
-CodeIgniter<br />
 HTML/CSS/JS<br />
 PHP & MySQL<br />
 __Cursor<br />
