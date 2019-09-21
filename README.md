@@ -1,6 +1,6 @@
-# Aplikácia Recepty - CodeIgniter aplikácia
+# Recipes - CodeIgniter
 
-# Štruktúra aplikácie
+# Application structure
 
 __application<br />
 __assets<br />
@@ -16,7 +16,7 @@ recipes.sql<br />
 
 
 
-## Použité technológie
+## Technologies
 
 jQuery<br />
 Fontawesome<br />
